@@ -97,7 +97,7 @@ html, body {
 .panel {
     background-color: white;
     margin-top: 5%;
-    padding: 10px;
+    padding: 4%;
     box-shadow: 3px 8px 28px #888888;
     display: inline-block;
 }
@@ -111,12 +111,13 @@ html, body {
 .panel-header h2 {
     text-align: center;
     font-family: 'Source Sans Pro', sans-serif;
-    margin: 10px;
+    margin: 4%;
 }
 
 .primary {
     float: left;
     width: 55%;
+    margin-left: 5%;
     padding: 0% 5% 5% 5%;
     text-align: justify;
     box-sizing: border-box;
@@ -131,10 +132,7 @@ html, body {
     float: left;
     margin: 0% 5% 2% 0%;
     box-shadow: 3px 3px 21px #888888;
-    border: 4px solid white;
-    border-width: 8px;
-    border-style: solid;
-    border-color: white;
+    border: 8px solid white;
     box-sizing: border-box;
 }
 
@@ -215,8 +213,8 @@ textarea {
 
 .social {
     float: left;
-    width: 33%;
-    margin-left: 10%;
+    width: 30%;
+    margin-left: 5%;
     padding: 0% 1% 1% 1%;
     box-sizing: border-box;
 }
